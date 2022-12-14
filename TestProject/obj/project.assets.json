@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasty\\Desktop\\L1\\Ready_tasks_git\\L1\\Azure\\TestProject\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\nasty\\Desktop\\L1\\Ready_tasks_git\\L1\\Azure\\Test-Project\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\nasty\\Desktop\\L1\\Ready_tasks_git\\L1\\Azure\\TestProject\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\nasty\\Desktop\\L1\\Ready_tasks_git\\L1\\Azure\\Test-Project\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\nasty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasty\\Desktop\\L1\\Ready_tasks_git\\L1\\Azure\\TestProject\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\nasty\\Desktop\\L1\\Ready_tasks_git\\L1\\Azure\\Test-Project\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nasty\\AppData\\Roaming\\NuGet\\NuGet.Config",
